@@ -1,2 +1,0 @@
-/Users/marwa/StudioProjects/bloc_arch/android/app/.cxx/Debug/1i3u5q5x/armeabi-v7a/CMakeFiles/edit_cache.dir
-/Users/marwa/StudioProjects/bloc_arch/android/app/.cxx/Debug/1i3u5q5x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
