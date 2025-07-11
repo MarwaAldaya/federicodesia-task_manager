@@ -1,0 +1,8 @@
+targets:
+  $default:
+    builders:
+      json_serializable:
+        options:
+          explicit_to_json: true
+          any_map: true  # good for Firestore w/ dynamic maps
+          include_if_null: false  # exclude null values from JSON
