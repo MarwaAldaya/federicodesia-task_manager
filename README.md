@@ -82,7 +82,7 @@ lib/
 ## 🛠️ Technology Stack
 
 ### Core Dependencies
-- **Flutter 3.29.0+** - UI framework
+- **Flutter 3.27.0+** - UI framework
 - **Dart 3.7.0+** - Programming language
 - **Firebase** - Authentication and Firestore
 - **Drift** - Local database ORM
@@ -103,7 +103,7 @@ lib/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Flutter SDK 3.29.0 or higher
+- Flutter SDK 3.27.0 or higher
 - Dart SDK 3.7.0 or higher
 - Android Studio / VS Code
 - Firebase project setup
